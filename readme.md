@@ -1,2 +1,3 @@
-Leetcode Problem Solving based on book 'Python Algorithm Interview'
+## Problem Solving with Python (in Leetcode)
+#### based on book 'Python Algorithm Interview'
 Coming soon...
