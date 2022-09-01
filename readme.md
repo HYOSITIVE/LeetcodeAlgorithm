@@ -1,3 +1,3 @@
-## Problem Solving with Python (in Leetcode)
-#### based on book 'Python Algorithm Interview'
-Coming soon...
+## Problem Solving
+### Language : Python
+### Platform : Leetcode
