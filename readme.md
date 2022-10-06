@@ -1,3 +1,3 @@
 ## Problem Solving
 ### Language : Python
-### Platform : Leetcode
+### Platform : LeetCode, Baekjoon
