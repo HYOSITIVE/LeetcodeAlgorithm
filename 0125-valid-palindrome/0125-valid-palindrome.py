@@ -1,10 +1,12 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        original = []
+        strs: Deque = collections.deque()
+            
         for letter in s :
             if letter.isalnum():
-              original.append(letter.lower())
-        while len(original) > 1:
-          if original.pop(0) != original.pop():
+              strs.append(letter.lower())
+            
+        while len(strs) > 1:
+          if strs.popleft() != strs.pop():
             return False
         return True
